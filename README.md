@@ -1,0 +1,2 @@
+# An-lise_de_Risco_de_Cr-dito_com_Explicabilidade_de_Modelos_de_Machine_Learning_
+XAI
